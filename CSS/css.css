@@ -1,0 +1,34 @@
+
+section{   
+    width: 1000px;
+    height: auto;
+    margin: 20px auto;
+    background-color: white;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    text-align: justify-all;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+.banner{
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    margin: auto;
+    justify-content:space-between;
+}
+.banner>.titulos:hover{
+    transition: 0.4s;
+    background-color:#4A4242 ;
+}
+.banner>.titulo:hover{
+    transition: 0.4s;
+    background-color: #4A4242;
+}
+.banner>.titlos:hover{
+    transition: 0.4s;
+    background-color: #4A4242;
+}

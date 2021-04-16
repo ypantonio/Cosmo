@@ -1,0 +1,57 @@
+section{   
+    width: 1000px;
+    height: auto;
+    margin: 20px auto;
+    background-color: white;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    text-align: justify-all;
+    font-size: 20px;
+}
+h1{
+    font-size: 55px;
+    text-align: center;
+}
+h3{
+    font-size: 35px;
+}
+p{
+    font-size: 15px;
+}
+.informacion{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    width: 800px;
+    margin: auto;
+}
+.vialactea{
+    width: 250px;
+    margin-left: 20px;
+    border: #bfcba8 solid 2px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.andromeda{
+    width: 250px;
+    margin-left: 20px;
+    border: #bfcba8 solid 2px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.boton1{
+    background-color: #F8931F;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    color: white;
+}
+.boton2{
+    background-color: #F8931F;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    color: white;
+}

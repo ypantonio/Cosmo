@@ -1,0 +1,84 @@
+body{
+    background-color: #03384a;
+}
+section{   
+    width: 1000px;
+    height: auto;
+    margin: 20px auto;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    text-align: justify-all;
+    font-size: 20px;
+}
+h1{
+    font-size: 55px;
+    text-align: center;
+    color: white;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.fase1{
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-radius: 10px;
+}
+.fase2{
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-radius: 10px;
+}
+.fase3{
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-radius: 10px;
+}
+.fase4{
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-radius: 10px;
+}
+.fase5{
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-radius: 10px;
+}
+.fase6{
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-radius: 10px;
+}
+
+.fase1:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+    
+}
+.fase2:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.fase3:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.fase4:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.fase5:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.fase6:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}

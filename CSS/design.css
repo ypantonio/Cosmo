@@ -1,0 +1,102 @@
+section{   
+    width: 1000px;
+    height: auto;
+    margin: 20px auto;
+    background-color: white;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    text-align: justify-all;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 55px;
+}
+.planetas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 735px;
+    padding: 0px 0px 0px 30px;
+    margin: auto;
+}
+.planet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 700px;
+    padding: 25px;
+    margin: auto;
+}
+.planeta1{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.planeta2{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.planeta3{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.planeta4{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.planeta5{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.planeta6{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.planeta7{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+.planeta8{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.planeta1:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.planeta2:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.planeta3:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.planeta4:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.planeta5:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.planeta6:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.planeta7:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}
+.planeta8:hover{
+    background-color: #4A4242;
+    transition: 0.4s;
+}

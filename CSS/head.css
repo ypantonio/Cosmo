@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.arrow{
+    width: 20px;
+    height: 20px;
+    padding: 3px 10px 3px 10px;
+    border-radius: 5px;
+    border-color: black;
+}
+.arrow:hover{
+    background-color: #fbc687;
+    transition: 0.3s;
+}
+header{
+    background-color: white;
+    padding: 8px;
+    margin: auto;
+    border-bottom-style:solid;
+    border-bottom-color: black;
+    border-bottom-width: medium;
+}
+.titulos{
+    background-color: #E06110;
+    color: white;
+    margin: auto;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.titulo{
+    background-color: #FC4A12;
+    color: white;
+    margin: auto;
+    padding: 10px 30px 10px 30px;;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.titlos{
+    background-color: #F8931F;
+    color: white;
+    margin: auto;
+    padding: 10px 50px 10px 50px;
+    text-decoration: none;
+    border-radius: 5px;
+}
