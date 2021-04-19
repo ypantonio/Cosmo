@@ -8,7 +8,7 @@
     height: 20px;
     padding: 3px 10px 3px 10px;
     border-radius: 5px;
-    border-color: black;
+    border-color: #414141;
 }
 .arrow:hover{
     background-color: #fbc687;
@@ -19,7 +19,7 @@ header{
     padding: 8px;
     margin: auto;
     border-bottom-style:solid;
-    border-bottom-color: black;
+    border-bottom-color: #414141;
     border-bottom-width: medium;
 }
 .titulos{
